@@ -1,0 +1,8 @@
+[1018/185339.912:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1018/185339.913:ERROR:exception_snapshot_win.cc(98)] thread ID 2708 not found in process
+[1018/190335.503:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1018/190335.504:ERROR:exception_snapshot_win.cc(98)] thread ID 9536 not found in process
+[1018/190336.853:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1018/190336.856:ERROR:exception_snapshot_win.cc(98)] thread ID 9836 not found in process
+[1018/191732.794:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostepu} Proces zazadal dostepu do obiektu, ale prawa dostepu nie zostaly przyznane. (0xc0000022)
+[1018/191734.499:ERROR:exception_snapshot_win.cc(98)] thread ID 9332 not found in process
